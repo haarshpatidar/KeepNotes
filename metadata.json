@@ -1,0 +1,8 @@
+{
+  "name": "MindKeep - Smart Notes & Reminders",
+  "description": "A high-performance mobile-first note-taking and reminder app featuring smart categorization powered by Gemini. Organize your thoughts, set timely alerts, and never miss a beat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
